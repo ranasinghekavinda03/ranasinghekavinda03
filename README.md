@@ -1,118 +1,158 @@
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile_card.svg" />
-    <img alt="Kavinda Heshan Ranasinghe — GitHub Profile" src="profile_card.svg" width="100%" />
-  </picture>
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Undergraduate+%40+SLIIT;Machine+Learning+%7C+Agentic+AI+%7C+Data;Full-Stack+Development+%7C+MLOps;Learning+by+Building+Real+Projects" alt="Typing SVG" />
-</div>
-
----
-
-### 🧑‍💻 About Me
-
-```bash
-$ cat profile.txt
-
-  Name       :  Kavinda Heshan Ranasinghe
-  Degree     :  BSc (Hons) Information Technology — AI Specialization
-  University :  Sri Lanka Institute of Information Technology (SLIIT)
-  Year       :  3rd Year, Semester 1
-  Location   :  Malabe, Sri Lanka 🇱🇰
-  Focus      :  AI/ML • Agentic AI • Data Engineering • Full-Stack Development
-  Open To    :  AI/ML • Data • Software Engineering Internship Opportunities
-  Achievement:  Dean's List — 2nd Year, 1st Semester
-  Motto      :  "Learn. Build. Improve. Repeat." 🚀
-```
-
----
-
-### 🛠️ Languages & Tools
-
-<div align="center">
-  <img src="moving_techstack.svg" width="100%" alt="Kavinda's Technology Stack" />
-</div>
+<h1 align="center">Hi 👋, I'm Kavinda Heshan Ranasinghe</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,react,nodejs,express,flask,dotnet,mongodb,postgres,git,github,tensorflow" alt="Tech icons" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🍔 **QuickBite** | Multi-canteen pre-order system for campus food ordering and canteen management | `React Native` `Node.js` `Express` `MongoDB` | [Repository](https://github.com/ranasinghekavinda03/QuickBite) |
-| 🅿️ **ParkingPulse-LK** | Smart parking web application with availability reporting, status tracking and parking information | `React` `.NET` `PostgreSQL` | [Repository](https://github.com/ranasinghekavinda03/ParkingPulse-LK) |
-| 📦 **MERN Item Manager** | Full-stack CRUD application for creating, viewing, updating and managing items | `React` `Node.js` `Express` `MongoDB` | [Repository](https://github.com/ranasinghekavinda03/mern-item-managers) |
-| 🚗 **Vehicle IQ** | ML-based second-hand vehicle price prediction system with preprocessing and regression model evaluation | `Python` `Flask` `scikit-learn` `Pandas` | *Portfolio project* |
-
----
-
-### 🎓 Education & Achievement
-
-| | |
-|---|---|
-| 🎓 **Degree** | BSc (Hons) in Information Technology — Artificial Intelligence |
-| 🏫 **University** | Sri Lanka Institute of Information Technology (SLIIT) |
-| 📅 **Duration** | 2024 – 2028 (Expected) |
-| 🏆 **Achievement** | Dean's List — 2nd Year, 1st Semester |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranasinghekavinda03&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranasinghekavinda03&theme=github_dark&hide_border=false&layout=compact&cache_seconds=86400" height="170" alt="Top Languages" />
+  <b>Artificial Intelligence Undergraduate @ SLIIT</b><br>
+  AI • Machine Learning • Data • Full-Stack Development
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ranasinghekavinda03&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Undergraduate+%40+SLIIT;Machine+Learning+%7C+Deep+Learning;Full-Stack+%26+Data-Driven+Applications;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="Typing SVG" />
 </p>
 
----
+👨‍💻 About Me
 
-### 📡 Contribution Activity
+🎓 3rd Year BSc (Hons) in Information Technology – Artificial Intelligence undergraduate at SLIIT
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranasinghekavinda03&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=00ff88&line=58a6ff&point=ffffff" width="100%" alt="GitHub Activity Graph" />
+🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning and Agentic AI
+
+📊 Exploring Data Engineering, MLOps and intelligent software systems
+
+💻 Building AI, web, mobile and full-stack applications
+
+🏆 Dean's List – 2nd Year 1st Semester
+
+📈 Current GPA: 3.49 / 4.0
+
+🚀 Open to internship opportunities in AI/ML, Data and Software Engineering
+
+🌱 I enjoy learning new technologies through hands-on projects
+
+💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp" alt="Programming Languages" />
 </p>
 
----
+🌐 Web & Mobile Development
 
-### 🧠 Currently Learning
-
-<p align="center">
-  <img src="learning_card.svg" width="100%" alt="Currently Learning" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter,dotnet" alt="Web and Mobile Development" />
 </p>
 
----
+Also worked with: React Native, Expo
 
-### 🌐 Connect With Me
+🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and ML" />
+</p>
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Hugging Face
+
+Google Colab
+
+TensorFlow — Basic
+
+PyTorch — Basic
+
+🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Databases" />
+</p>
+
+MongoDB Atlas
+
+PostgreSQL
+
+SQL
+
+🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+</p>
+
+🚀 Featured Projects
+
+🍔 QuickBite
+
+Full-stack multi-canteen pre-order management system
+
+A university project designed to help students order meals from multiple campus canteens.
+
+Tech: React Native • Expo • Node.js • Express.js • MongoDB Atlas
+
+🔗 View Repository
+
+🅿️ ParkingPulse-LK
+
+Smart parking availability web application
+
+A hackathon project focused on parking search, availability reporting, status tracking and smart parking information.
+
+🔗 View Repository
+
+📦 MERN Item Manager
+
+Full-stack CRUD application using the MERN stack
+
+A web application for creating, viewing, updating and managing items.
+
+Tech: MongoDB • Express.js • React • Node.js
+
+🔗 View Repository
+
+📚 Currently Exploring
+
+Agentic AI
+
+Retrieval-Augmented Generation (RAG)
+
+LangChain / LangGraph
+
+MLOps
+
+Data Engineering
+
+Cloud Deployment
+
+📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranasinghekavinda03&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranasinghekavinda03&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ranasinghekavinda03&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranasinghekavinda03&theme=github-compact&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+🌐 Connect With Me
+
+<p>
   <a href="https://www.linkedin.com/in/kavinda-ranasinghe-ab4aa33bb">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-Kavinda%20Ranasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:ranasinghe.kavinda03@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/ranasinghekavinda03">
-    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranasinghekavinda03&label=Profile+Views&color=00b86b&style=flat" alt="Profile Views" />
-  <br/><br/>
-  <i>Building skills through real projects, one commit at a time.</i>
-</div>
+<p align="center">
+  <i>Learn • Build • Improve • Repeat</i>
+</p>
