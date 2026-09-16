@@ -1,158 +1,182 @@
-<h1 align="center">Hi 👋, I'm Kavinda Heshan Ranasinghe</h1>
+<div align="center">
 
-<p align="center">
-  <b>Artificial Intelligence Undergraduate @ SLIIT</b><br>
-  AI • Machine Learning • Data • Full-Stack Development
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile_card.svg" />
+    <img alt="Kavinda Heshan Ranasinghe — GitHub Profile" src="profile_card.svg" width="100%" />
+  </picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Undergraduate+%40+SLIIT;Machine+Learning+%7C+Deep+Learning;Full-Stack+%26+Data-Driven+Applications;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="Typing SVG" />
-</p>
+</div>
 
-👨‍💻 About Me
+<br />
 
-🎓 3rd Year BSc (Hons) in Information Technology – Artificial Intelligence undergraduate at SLIIT
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Undergraduate+%40+SLIIT;Machine+Learning+%7C+Agentic+AI+%7C+Data;Full-Stack+Development+%7C+MLOps;Learning+by+Building+Real+Projects" alt="Typing SVG" />
+</div>
 
-🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning and Agentic AI
+🧑‍💻 About Me
 
-📊 Exploring Data Engineering, MLOps and intelligent software systems
+$ cat profile.txt
 
-💻 Building AI, web, mobile and full-stack applications
+  Name       :  Kavinda Heshan Ranasinghe
+  Degree     :  BSc (Hons) Information Technology — AI Specialization
+  University :  Sri Lanka Institute of Information Technology (SLIIT)
+  Year       :  3rd Year, Semester 1
+  Location   :  Malabe, Sri Lanka 🇱🇰
+  Focus      :  AI/ML • Agentic AI • Data Engineering • Full-Stack Development
+  Open To    :  AI/ML • Data • Software Engineering Internship Opportunities
+  Achievement:  Dean's List — 2nd Year, 1st Semester
+  Motto      :  "Learn. Build. Improve. Repeat." 🚀
 
-🏆 Dean's List – 2nd Year 1st Semester
-
-📈 Current GPA: 3.49 / 4.0
-
-🚀 Open to internship opportunities in AI/ML, Data and Software Engineering
-
-🌱 I enjoy learning new technologies through hands-on projects
+🛠️ Languages & Tools
 
 💻 Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp" alt="Programming Languages" />
 </p>
 
 🌐 Web & Mobile Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter,dotnet" alt="Web and Mobile Development" />
 </p>
 
-Also worked with: React Native, Expo
+<p align="center">
+  <code>React Native</code> • <code>Expo</code>
+</p>
 
 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and ML" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and Machine Learning" />
 </p>
 
-Scikit-learn
+<p align="center">
+  <code>Scikit-learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Hugging Face</code> • <code>Google Colab</code>
+</p>
 
-Pandas
-
-NumPy
-
-Matplotlib
-
-Hugging Face
-
-Google Colab
-
-TensorFlow — Basic
-
-PyTorch — Basic
+<p align="center"><sub>TensorFlow & PyTorch — basic familiarity</sub></p>
 
 🗄️ Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Databases" />
 </p>
 
-MongoDB Atlas
+<p align="center">
+  <code>MongoDB Atlas</code> • <code>SQL</code> • <code>PostgreSQL</code>
+</p>
 
-PostgreSQL
+🔧 Development Tools
 
-SQL
-
-🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 </p>
 
 🚀 Featured Projects
 
+Project
+
+Description
+
+Stack
+
+Link
+
 🍔 QuickBite
 
-Full-stack multi-canteen pre-order management system
+Multi-canteen pre-order system for campus food ordering and canteen management
 
-A university project designed to help students order meals from multiple campus canteens.
+React Native Node.js Express MongoDB
 
-Tech: React Native • Expo • Node.js • Express.js • MongoDB Atlas
-
-🔗 View Repository
+Repository
 
 🅿️ ParkingPulse-LK
 
-Smart parking availability web application
+Smart parking web application with availability reporting, status tracking and parking information
 
-A hackathon project focused on parking search, availability reporting, status tracking and smart parking information.
+React .NET PostgreSQL
 
-🔗 View Repository
+Repository
 
 📦 MERN Item Manager
 
-Full-stack CRUD application using the MERN stack
+Full-stack CRUD application for creating, viewing, updating and managing items
 
-A web application for creating, viewing, updating and managing items.
+React Node.js Express MongoDB
 
-Tech: MongoDB • Express.js • React • Node.js
+Repository
 
-🔗 View Repository
+🚗 Vehicle IQ
 
-📚 Currently Exploring
+ML-based second-hand vehicle price prediction system with preprocessing and regression model evaluation
 
-Agentic AI
+Python Flask scikit-learn Pandas
 
-Retrieval-Augmented Generation (RAG)
+Portfolio project
 
-LangChain / LangGraph
+🎓 Education & Achievement
 
-MLOps
 
-Data Engineering
 
-Cloud Deployment
+
+
+🎓 Degree
+
+BSc (Hons) in Information Technology — Artificial Intelligence
+
+🏫 University
+
+Sri Lanka Institute of Information Technology (SLIIT)
+
+📅 Duration
+
+2024 – 2028 (Expected)
+
+🏆 Achievement
+
+Dean's List — 2nd Year, 1st Semester
 
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranasinghekavinda03&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranasinghekavinda03&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranasinghekavinda03&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranasinghekavinda03&theme=github_dark&hide_border=false&layout=compact&cache_seconds=86400" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ranasinghekavinda03&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ranasinghekavinda03&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
 </p>
 
-📈 Contribution Activity
+📡 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranasinghekavinda03&theme=github-compact&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranasinghekavinda03&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=00ff88&line=58a6ff&point=ffffff" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+🧠 Currently Learning
+
+<p align="center">
+  <img src="learning_card.svg" width="100%" alt="Currently Learning" />
 </p>
 
 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/kavinda-ranasinghe-ab4aa33bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Kavinda%20Ranasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:ranasinghe.kavinda03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/ranasinghekavinda03">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
   </a>
 </p>
 
-<p align="center">
-  <i>Learn • Build • Improve • Repeat</i>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranasinghekavinda03&label=Profile+Views&color=00b86b&style=flat" alt="Profile Views" />
+  <br/><br/>
+  <i>Building skills through real projects, one commit at a time.</i>
+</div>
