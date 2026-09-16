@@ -77,45 +77,14 @@ Motto       : "Learn. Build. Improve. Repeat." 🚀
 
 🚀 Featured Projects
 
-Project
+## 🚀 Featured Projects
 
-Description
-
-Stack
-
-Link
-
-🍔 QuickBite
-
-Multi-canteen pre-order system for campus food ordering and canteen management
-
-React Native Node.js Express MongoDB
-
-Repository
-
-🅿️ ParkingPulse-LK
-
-Smart parking web application with availability reporting, status tracking and parking information
-
-React .NET PostgreSQL
-
-Repository
-
-📦 MERN Item Manager
-
-Full-stack CRUD application for creating, viewing, updating and managing items
-
-React Node.js Express MongoDB
-
-Repository
-
-🚗 Vehicle IQ
-
-ML-based second-hand vehicle price prediction system with preprocessing and regression model evaluation
-
-Python Flask scikit-learn Pandas
-
-Portfolio project
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🍔 **QuickBite** | Multi-canteen pre-order system for campus food ordering and canteen management | React Native, Node.js, Express.js, MongoDB | [Repository](https://github.com/ranasinghekavinda03/QuickBite) |
+| 🅿️ **ParkingPulse-LK** | Smart parking web application with availability reporting, status tracking and parking information | React, .NET, PostgreSQL | [Repository](https://github.com/ranasinghekavinda03/ParkingPulse-LK) |
+| 📦 **MERN Item Manager** | Full-stack CRUD application for creating, viewing, updating and managing items | React, Node.js, Express.js, MongoDB | [Repository](https://github.com/ranasinghekavinda03/mern-item-managers) |
+| 🚙 **Vehicle IQ** | ML-based second-hand vehicle price prediction system with preprocessing and regression model evaluation | Python, Flask, Scikit-learn, HTML, CSS | Repository |
 
 🎓 Education & Achievement
 
