@@ -15,17 +15,19 @@
 
 🧑‍💻 About Me
 
+<pre>
 $ cat profile.txt
 
-  Name       :  Kavinda Heshan Ranasinghe
-  Degree     :  BSc (Hons) Information Technology — AI Specialization
-  University :  Sri Lanka Institute of Information Technology (SLIIT)
-  Year       :  3rd Year, Semester 1
-  Location   :  Malabe, Sri Lanka 🇱🇰
-  Focus      :  AI/ML • Agentic AI • Data Engineering • Full-Stack Development
-  Open To    :  AI/ML • Data • Software Engineering Internship Opportunities
-  Achievement:  Dean's List — 2nd Year, 1st Semester
-  Motto      :  "Learn. Build. Improve. Repeat." 🚀
+Name        : Kavinda Heshan Ranasinghe
+Degree      : BSc (Hons) Information Technology — AI Specialization
+University  : Sri Lanka Institute of Information Technology (SLIIT)
+Year        : 3rd Year, Semester 1
+Location    : Malabe, Sri Lanka 🇱🇰
+Focus       : AI/ML • Agentic AI • Data Engineering • Full-Stack Development
+Open To     : AI/ML • Data • Software Engineering Internship Opportunities
+Achievement : Dean's List — 2nd Year, 1st Semester
+Motto       : "Learn. Build. Improve. Repeat." 🚀
+</pre>
 
 🛠️ Languages & Tools
 
@@ -75,36 +77,66 @@ $ cat profile.txt
 
 🚀 Featured Projects
 
-## 🚀 Featured Projects
+Project
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🍔 **QuickBite** | Multi-canteen pre-order system for campus food ordering and canteen management | React Native, Node.js, Express.js, MongoDB | [Repository](https://github.com/ranasinghekavinda03/QuickBite) |
-| 🅿️ **ParkingPulse-LK** | Smart parking web application with availability reporting, status tracking and parking information | React, .NET, PostgreSQL | [Repository](https://github.com/ranasinghekavinda03/ParkingPulse-LK) |
-| 📦 **MERN Item Manager** | Full-stack CRUD application for creating, viewing, updating and managing items | React, Node.js, Express.js, MongoDB | [Repository](https://github.com/ranasinghekavinda03/mern-item-managers) |
-| 🚙 **Vehicle IQ** | ML-based second-hand vehicle price prediction system with preprocessing and regression model evaluation | Python, Flask, Scikit-learn, HTML, CSS | Repository |
+Description
+
+Stack
+
+Link
+
+🍔 QuickBite
+
+Multi-canteen pre-order system for campus food ordering and canteen management
+
+React Native Node.js Express MongoDB
+
+Repository
+
+🅿️ ParkingPulse-LK
+
+Smart parking web application with availability reporting, status tracking and parking information
+
+React .NET PostgreSQL
+
+Repository
+
+📦 MERN Item Manager
+
+Full-stack CRUD application for creating, viewing, updating and managing items
+
+React Node.js Express MongoDB
+
+Repository
+
+🚗 Vehicle IQ
+
+ML-based second-hand vehicle price prediction system with preprocessing and regression model evaluation
+
+Python Flask scikit-learn Pandas
+
+Portfolio project
 
 🎓 Education & Achievement
 
-
-
-
-
-🎓 Degree
-
-BSc (Hons) in Information Technology — Artificial Intelligence
-
-🏫 University
-
-Sri Lanka Institute of Information Technology (SLIIT)
-
-📅 Duration
-
-2024 – 2028 (Expected)
-
-🏆 Achievement
-
-Dean's List — 2nd Year, 1st Semester
+<table>
+  <tr>
+    <td><b>🎓 Degree</b></td>
+    <td>BSc (Hons) in Information Technology — Artificial Intelligence</td>
+  </tr>
+  <tr>
+    <td><b>🏫 University</b></td>
+    <td>Sri Lanka Institute of Information Technology (SLIIT)</td>
+  </tr>
+  <tr>
+    <td><b>📅 Duration</b></td>
+    <td>2024 – 2028 (Expected)</td>
+  </tr>
+  <tr>
+    <td><b>🏆 Achievement</b></td>
+    <td>Dean's List — 2nd Year, 1st Semester</td>
+  </tr>
+</table>
 
 📊 GitHub Stats
 
