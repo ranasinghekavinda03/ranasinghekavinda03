@@ -16,10 +16,6 @@
 
 🗄️ Working with MongoDB, PostgreSQL and SQL
 
-🏆 Dean's List – 2nd Year 1st Semester
-
-📈 Current GPA: 3.49 / 4.0
-
 🚀 Interested in internship opportunities in AI/ML, Data and Software Engineering
 
 🌱 I enjoy learning new technologies through hands-on projects
