@@ -25,7 +25,6 @@ Year        : 3rd Year, Semester 1
 Location    : Malabe, Sri Lanka 🇱🇰
 Focus       : AI/ML • Agentic AI • Data Engineering • Full-Stack Development
 Open To     : AI/ML • Data • Software Engineering Internship Opportunities
-Achievement : Dean's List — 2nd Year, 1st Semester
 Motto       : "Learn. Build. Improve. Repeat." 🚀
 </pre>
 
