@@ -22,7 +22,7 @@ Name        : Kavinda Heshan Ranasinghe
 Degree      : BSc (Hons) Information Technology — AI Specialization
 University  : Sri Lanka Institute of Information Technology (SLIIT)
 Year        : 3rd Year, Semester 1
-Location    : Malabe, Sri Lanka 🇱🇰
+Location    : Malabe, Sri Lanka
 Focus       : AI/ML • Agentic AI • Data Engineering • Full-Stack Development
 Open To     : AI/ML • Data • Software Engineering Internship Opportunities
 Motto       : "Learn. Build. Improve. Repeat." 🚀
