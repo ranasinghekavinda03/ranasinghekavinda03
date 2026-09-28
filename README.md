@@ -100,10 +100,6 @@ Motto       : "Learn. Build. Improve. Repeat." 🚀
     <td><b>📅 Duration</b></td>
     <td>2024 – 2028 (Expected)</td>
   </tr>
-  <tr>
-    <td><b>🏆 Achievement</b></td>
-    <td>Dean's List — 2nd Year, 1st Semester</td>
-  </tr>
 </table>
 
 📊 GitHub Stats
