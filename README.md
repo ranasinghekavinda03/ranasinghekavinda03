@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Undergraduate+%40+SLIIT;Machine+Learning+%7C+Agentic+AI+%7C+Data;Full-Stack+Development+%7C+MLOps;Learning+by+Building+Real+Projects" alt="Typing SVG" />
 </div>
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 <pre>
 $ cat profile.txt
@@ -28,15 +28,17 @@ Open To     : AI/ML • Data • Software Engineering Internship Opportunities
 Motto       : "Learn. Build. Improve. Repeat." 🚀
 </pre>
 
-🛠️ Languages & Tools
+---
 
-💻 Programming Languages
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp" alt="Programming Languages" />
 </p>
 
-🌐 Web & Mobile Development
+### 🌐 Web & Mobile Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter,dotnet" alt="Web and Mobile Development" />
@@ -46,51 +48,84 @@ Motto       : "Learn. Build. Improve. Repeat." 🚀
   <code>React Native</code> • <code>Expo</code>
 </p>
 
-🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and Machine Learning" />
 </p>
 
 <p align="center">
-  <code>Scikit-learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Hugging Face</code> • <code>Google Colab</code>
+  <code>Scikit-learn</code> •
+  <code>Pandas</code> •
+  <code>NumPy</code> •
+  <code>Matplotlib</code> •
+  <code>Hugging Face</code> •
+  <code>Google Gemini</code> •
+  <code>RAG</code> •
+  <code>Embeddings</code>
 </p>
 
-<p align="center"><sub>TensorFlow & PyTorch — basic familiarity</sub></p>
+<p align="center">
+  <sub>TensorFlow & PyTorch — basic familiarity</sub>
+</p>
 
-🗄️ Databases
+### 🗄️ Databases & Vector Search
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Databases" />
 </p>
 
 <p align="center">
-  <code>MongoDB Atlas</code> • <code>SQL</code> • <code>PostgreSQL</code>
+  <code>MongoDB Atlas</code> •
+  <code>SQL</code> •
+  <code>PostgreSQL</code> •
+  <code>pgvector</code>
 </p>
 
-🔧 Development Tools
+### 🔧 Development Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 </p>
 
-🚀 Featured Projects
+---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Link |
+| Project | Description | Stack | Repository |
 |---|---|---|---|
-| 🍔 **QuickBite** | Multi-canteen pre-order system for campus food ordering and canteen management | React Native, Node.js, Express.js, MongoDB | [Repository](https://github.com/ranasinghekavinda03/QuickBite) |
-| 🅿️ **ParkingPulse-LK** | Smart parking web application with availability reporting, status tracking and parking information | React, .NET, PostgreSQL | [Repository](https://github.com/ranasinghekavinda03/ParkingPulse-LK) |
+| 🎓 **AI StudyMate** | AI-powered intelligent learning platform that allows students to manage modules, upload lecture materials and ask questions using Retrieval-Augmented Generation with document-grounded answers | React, Python, PostgreSQL, pgvector, Gemini, RAG | [Repository](https://github.com/ranasinghekavinda03/AI-StudyMate) |
+| 🅿️ **ParkingPulse-LK** | Smart parking web application with availability reporting, parking status tracking and parking information management | React, .NET, PostgreSQL | [Repository](https://github.com/ranasinghekavinda03/ParkingPulse-LK) |
+| 🍔 **QuickBite** | Multi-canteen pre-order system designed to improve campus food ordering and canteen management | React Native, Node.js, Express.js, MongoDB | [Repository](https://github.com/ranasinghekavinda03/QuickBite) |
+| 🚙 **Vehicle IQ** | Machine-learning-based second-hand vehicle price prediction system with preprocessing, regression model comparison and prediction functionality | Python, Flask, Scikit-learn, SQLAlchemy, HTML, CSS | University Project |
 | 📦 **MERN Item Manager** | Full-stack CRUD application for creating, viewing, updating and managing items | React, Node.js, Express.js, MongoDB | [Repository](https://github.com/ranasinghekavinda03/mern-item-managers) |
-| 🚙 **Vehicle IQ** | ML-based second-hand vehicle price prediction system with preprocessing and regression model evaluation | Python, Flask, Scikit-learn, HTML, CSS | Repository |
 
-🎓 Education & Achievement
+---
+
+## 🔬 Current Interests
+
+<p align="center">
+  🤖 <b>Artificial Intelligence</b>
+  &nbsp;•&nbsp;
+  🧠 <b>Machine Learning</b>
+  &nbsp;•&nbsp;
+  🕸️ <b>Multi-Agent Systems</b>
+  &nbsp;•&nbsp;
+  📚 <b>Retrieval-Augmented Generation</b>
+  &nbsp;•&nbsp;
+  📊 <b>Data Engineering</b>
+  &nbsp;•&nbsp;
+  ⚙️ <b>MLOps</b>
+</p>
+
+---
+
+## 🎓 Education & Achievement
 
 <table>
   <tr>
     <td><b>🎓 Degree</b></td>
-    <td>BSc (Hons) in Information Technology — Artificial Intelligence</td>
+    <td>BSc (Hons) in Information Technology — Artificial Intelligence Specialization</td>
   </tr>
   <tr>
     <td><b>🏫 University</b></td>
@@ -100,9 +135,15 @@ Motto       : "Learn. Build. Improve. Repeat." 🚀
     <td><b>📅 Duration</b></td>
     <td>2024 – 2028 (Expected)</td>
   </tr>
+  <tr>
+    <td><b>🏆 Achievement</b></td>
+    <td>Dean's List — Year 2 Semester 1</td>
+  </tr>
 </table>
 
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ranasinghekavinda03&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
@@ -114,27 +155,35 @@ Motto       : "Learn. Build. Improve. Repeat." 🚀
   <img src="https://streak-stats.demolab.com/?user=ranasinghekavinda03&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
 </p>
 
-📡 Contribution Activity
+---
+
+## 📡 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranasinghekavinda03&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=00ff88&line=58a6ff&point=ffffff" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-🧠 Currently Learning
+---
+
+## 🧠 Currently Learning
 
 <p align="center">
   <img src="learning_card.svg" width="100%" alt="Currently Learning" />
 </p>
 
-🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavinda-ranasinghe-ab4aa33bb">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:ranasinghe.kavinda03@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
-  </a>&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/ranasinghekavinda03">
     <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
   </a>
@@ -142,6 +191,12 @@ Motto       : "Learn. Build. Improve. Repeat." 🚀
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ranasinghekavinda03&label=Profile+Views&color=00b86b&style=flat" alt="Profile Views" />
+
   <br/><br/>
+
   <i>Building skills through real projects, one commit at a time.</i>
+
+  <br/><br/>
+
+  ⭐ <b>Feel free to explore my repositories and connect with me!</b>
 </div>
