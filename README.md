@@ -137,7 +137,6 @@ Motto       : "Learn. Build. Improve. Repeat." 🚀
   </tr>
   <tr>
     <td><b>🏆 Achievement</b></td>
-    <td>Dean's List — Year 2 Semester 1</td>
   </tr>
 </table>
 
