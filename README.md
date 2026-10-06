@@ -135,9 +135,6 @@ Motto       : "Learn. Build. Improve. Repeat." 🚀
     <td><b>📅 Duration</b></td>
     <td>2024 – 2028 (Expected)</td>
   </tr>
-  <tr>
-    <td><b>🏆 Achievement</b></td>
-  </tr>
 </table>
 
 ---
